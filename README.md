@@ -19,4 +19,4 @@ When forecasting for more than 6 h into the future, it is important to include n
 
 ## Acknowledgements
 
-[ENGIE}(https://opendata-renewables.engie.com) is acknowledged for providing such a wealth of useful information online!
+[ENGIE](https://opendata-renewables.engie.com) are acknowledged for providing such a wealth of useful information online!
